@@ -9,22 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/varunsam10/react-skeleton.git"
+    "url": "git+https://github.com/devslopes/react-skeleton.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/varunsam10/react-skeleton/issues"
+    "url": "https://github.com/devslopes/react-skeleton/issues"
   },
-  "homepage": "https://github.com/varunsam10/react-skeleton#readme",
+  "homepage": "https://github.com/devslopes/react-skeleton#readme",
   "dependencies": {
-    "babel-preset-react": "^6.24.1",
-    "babelify": "^8.0.0",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "watchify": "^3.11.0"
-  },
-  "devDependencies": {
-    "babel-core": "^6.26.3"
+    "babel-preset-react": "^6.1.18",
+    "babelify": "^7.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "watchify": "^3.6.1"
   }
 }
